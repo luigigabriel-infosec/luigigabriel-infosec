@@ -2,8 +2,6 @@
   <img src="assets/banner.png" alt="Luigi Gabriel — Cybersecurity and IT Infrastructure portfolio banner" width="100%" />
 </div>
 
-# Hi there, I'm Luigi Gabriel 👋
-
 **IT Infrastructure & Support | Cybersecurity | Networking | Systems Administration | Automation**
 
 ## About Me
